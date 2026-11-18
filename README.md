@@ -18,7 +18,7 @@ With the Google Maps integration you will be able to see all customers on a map 
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 - Google Maps Browser-API-Key - can be obtained from https://developers.google.com/maps/documentation/javascript/get-api-key
 
 **Installation**
